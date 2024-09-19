@@ -5,7 +5,9 @@ In this project I imlemented an RESTful API using Kotlin with Ktor. this use cas
 ## Next steps
 
 *Implement DataBase to store product/client data.
+
 *Implement HTTPS.
+
 *Move implementation from routing to a repository class.
 
 ## Contributing
